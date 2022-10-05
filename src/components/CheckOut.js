@@ -19,3 +19,5 @@ const CheckOut = ()  => {
 }
 
 export default CheckOut;
+
+/*Hej*/
